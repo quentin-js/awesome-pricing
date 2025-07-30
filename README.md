@@ -27,9 +27,9 @@ Think of it as a starting point for:
 
 ## 📊 Awesome Pricing Pages
 
-| Company | Product Type | Pricing Type | # of Plans | Tags |
-|---------|--------------|--------------|------------|------|
-| [Pruna AI](https://pruna.ai) | AI Inference Optimization Framework | Compute-Based | 3 | AI, Open-Source, Inference |
+| Company | Product Type | Pricing Type | # of Plans |
+|---------|--------------|--------------|------------|
+| [Pruna AI](https://pruna.ai) | AI Inference Optimization Framework | Compute-Based | 3 |
 
 ---
 
@@ -45,31 +45,40 @@ Think of it as a starting point for:
 
 ## 📰 Articles
 
-| Title | Year | Author | Tags |
-|-------|------|--------|------|
-| [The DNA of a Great Pricing Page](https://www.elenaverna.com/p/the-dna-of-a-great-pricing-page) | 2024 | Elena Verna | B2B SaaS, Growth, UX |
-| [Pricing Page Examples](https://newsletter.mkt1.co/p/pricing-page-examples) | 2023 | Emily Kramer (MKT1) | Design Patterns, SaaS |
-| [Getting Your Pricing Model Right(ish)](https://www.emilyomier.com/podcast/getting-your-pricing-model-right-ish-with-alex-olivier) | 2023 | Emily Omier & Alex Olivier | DevTools, Monetization |
-| [The State of Usage-Based Pricing](https://www.growthunhinged.com/p/the-state-of-usage-based-pricing) | 2024 | Kyle Poyar | UBP, SaaS, PLG |
-| [Traditional Marketing Doesn’t Work on Developers](https://everydeveloper.com/traditional-marketing-unresponsive/) | 2022 | Adam DuVander | DevTools, Positioning, Trust |
+| Title | Year | Author |
+|-------|------|--------|
+| [Traditional Marketing Doesn’t Work on Developers](https://everydeveloper.com/traditional-marketing-unresponsive/) | November 2024 | Adam DuVander | 
+| [The DNA of a Great Pricing Page](https://www.elenaverna.com/p/the-dna-of-a-great-pricing-page) | October 2024 | Elena Verna |
+| [How to create an effective pricing page](https://newsletter.mkt1.co/p/pricing-page-examples) | July 2024 | Emily Kramer and Maura Ginty |
+| [The state of SaaS pricing](https://www.growthunhinged.com/p/the-state-of-usage-based-pricing) | February 2024 | Kyle Poyar |
 
 
 ---
 
 ## 📚 Research Papers & Analyst Reports
 
-| Title | Year | Author | Tags |
-|-------|------|--------|------|
-| [The Art of Software Pricing: Unleashing Growth with Data-Driven Insights](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-art-of-software-pricing-unleashing-growth-with-data-driven-insights) | 2023 | McKinsey & Company | Strategy, Data, Enterprise |
-| [How to Analyze Customer Value Metrics](https://www.reforge.com/guides/analyze-customer-value-metrics) | 2022 | Reforge | Value Metrics, PLG, Pricing Strategy |
+| Title | Year | Author(s) |
+|-------|------|--------|
+| [The Art of Software Pricing: Unleashing Growth with Data-Driven Insights](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-art-of-software-pricing-unleashing-growth-with-data-driven-insights) | June 2023 | McKinsey & Company (Christian Fielitz, Mohit Khanna, Paul Roche, Michelle Nguyen and Varshik Nimmagadda) |
+| [Top 10 Learnings from the Redpoint 2020 GTM Survey](https://tomtunguz.com/redpoint-2020-gtm-survey/) | June 2020 | Theory Ventures (Tomasz Tunguz) |
 
 ---
 
-## 🎧 Podcasts
+## 🎓 Lectures
 
-| Title | Year | Host / Guest | Tags |
+| Title | Platform | Author(s) |
+|-------|------|--------|
+| [How to Analyze Customer Value Metrics](https://www.reforge.com/guides/analyze-customer-value-metrics) | Reforge | Elena Verna (Dropbox), Dan Hockenmaier (Faire), Patrick Campbell (Paddle) |
+
+---
+
+## 🎧 Podcasts & YouTube
+
+| Title | Year | Host / Guest | Conference |
 |-------|------|---------------|------|
-| [Getting Your Pricing Model Right(ish)](https://www.emilyomier.com/podcast/getting-your-pricing-model-right-ish-with-alex-olivier) | 2023 | Emily Omier & Alex Olivier | DevTools, Monetization |
+| [Getting Your Pricing Model Right(ish)](https://www.emilyomier.com/podcast/getting-your-pricing-model-right-ish-with-alex-olivier) | April 2024 | Emily Omier & Alex Olivier | KubeCon EU 2024 |
+| [From Open Source To Open Core to Cloud](https://www.youtube.com/watch?v=AfVzyKl_-kw) | January 2024 | Pierre Burgy | Open Core Summit 2023 |
+
 
 ---
 

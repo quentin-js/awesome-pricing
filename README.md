@@ -1,6 +1,11 @@
 # 🌟 Awesome Pricing 🌟 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 > A curated list of the best software pricing pages — from clever design patterns to strategic plan layouts. Because good pricing is good product.
+>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d262b114-8801-49b7-a559-a6bd81b8adbb" alt="Awesome Pricing Logo" width="600"/>
+</p>
+
 
 ---
 

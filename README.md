@@ -82,6 +82,7 @@ Each **+** is a bonus point for:
 | [The DNA of a Great Pricing Page](https://www.elenaverna.com/p/the-dna-of-a-great-pricing-page) | October 2024 | Elena Verna |
 | [How to create an effective pricing page](https://newsletter.mkt1.co/p/pricing-page-examples) | July 2024 | Emily Kramer and Maura Ginty |
 | [The state of SaaS pricing](https://www.growthunhinged.com/p/the-state-of-usage-based-pricing) | February 2024 | Kyle Poyar |
+| We’ve decided to make less money [Part 1](https://posthog.com/blog/session-replay-pricing) + [Part 2](https://posthog.com/blog/analytics-pricing) | July 2024 | James Hawkins |
 
 
 ---

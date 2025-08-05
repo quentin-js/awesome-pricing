@@ -34,7 +34,15 @@ Think of it as a starting point for:
 
 | Company | Product Type | Pricing Type | # of Plans | Score |
 |---------|--------------|--------------|------------|--------|
-| [Pruna AI](https://pruna.ai) | AI Inference Optimization Framework | Per-Hour (Compute-Based) | 3 | AAA++ |
+| [Pruna AI](https://pruna.ai) | AI Optimization Framework | Per Hour | 3 | AAA+++++ |
+| [Sanity](https://www.sanity.io/) | Content Operating System (CMS) | Per Seat | 3 | AAA++ |
+| [Clay](https://posthog.com/) | ata Platform for Enrichment, Search & Automation | Credits | 5 | AA++ |
+| [Posthog](https://posthog.com/) | Analytics Platform | Hybrid (Multiple Usage-Based Metrics) | 2 | A+++ |
+| [Langfuse](https://langfuse.com) | Open Source LLM Engineering Platform | Hybrid (Fixed Fee +  | 4 | AAA++++ |
+| [Weights&Biases](https://wandb.ai) | AI developer platform | Hybrid (Per Seat + Various Usage-Based Metrics) | 3 | AA+ |
+
+
+
 
 
 #### 🧮 Score Breakdown
@@ -49,18 +57,19 @@ Each **A** is earned for one of the following:
 - ✅ Waterfall-style layout to visualize differences  
 - ✅ Clear “Good / Better / Best” naming  
 - ✅ Unit of value is obvious (e.g. per user, per 1K tokens)  
-- ✅ Pricing-related FAQ included  
+- ✅ Pricing-related FAQ  and/or feature table included  
 
 **A = 1–3 | AA = 4–6 | AAA = 7–9**
 
 Each **+** is a bonus point for:
 
-- `+` Open-source project  
+- `+` Open-source (even partially) 
 - `+` Case study or testimonial next to logo  
-- `+` Tooltip-style `(i)` explanations for features  
-- `+` Add-ons or services listed separately  
+- `+` Tooltip-style `(i)` explanations for features (in the main pricing cards)  
+- `+` Add-ons or services listed separately
+- `+` Pricing Calculator
 
-**Maximum: `AAA+++`**
+**Maximum: `AAA+++++`**
 
 ---
 
@@ -80,10 +89,9 @@ Each **+** is a bonus point for:
 |-------|------|--------|
 | [Traditional Marketing Doesn’t Work on Developers](https://everydeveloper.com/traditional-marketing-unresponsive/) | November 2024 | Adam DuVander | 
 | [The DNA of a Great Pricing Page](https://www.elenaverna.com/p/the-dna-of-a-great-pricing-page) | October 2024 | Elena Verna |
+| We’ve decided to make less money [Part 1](https://posthog.com/blog/session-replay-pricing) + [Part 2](https://posthog.com/blog/analytics-pricing) | July 2024 | James Hawkins |
 | [How to create an effective pricing page](https://newsletter.mkt1.co/p/pricing-page-examples) | July 2024 | Emily Kramer and Maura Ginty |
 | [The state of SaaS pricing](https://www.growthunhinged.com/p/the-state-of-usage-based-pricing) | February 2024 | Kyle Poyar |
-| We’ve decided to make less money [Part 1](https://posthog.com/blog/session-replay-pricing) + [Part 2](https://posthog.com/blog/analytics-pricing) | July 2024 | James Hawkins |
-
 
 ---
 

@@ -1,11 +1,11 @@
-# 🧾 awesome-pricing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+# 🌟 Awesome Pricing 🌟 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 > A curated list of the best software pricing pages — from clever design patterns to strategic plan layouts. Because good pricing is good product.
 
 ---
 
 
-## 🌟 Introduction
+## 🤓 Introduction
 
 Pricing is a love-hate topic. Everyone cares about it (users, founders, PMs, sales folks), yet it’s surprisingly under-discussed. There’s no reason for secrecy: we’re not guarding national secrets. Especially in tech, pricing can build trust, signal intent, and help users make faster decisions.
 
@@ -14,7 +14,7 @@ This list brings together great examples, thoughtful articles, and useful resear
 📌 **Listing rules:**
 - Must have at least **one plan with transparent pricing**  
   (*Doesn’t need to be self-serve — but if you say “talk to sales,” at least show the ballpark.*)
-- **No self-referrals**: you can’t submit your own product, only those of your friends, mentors, partners, or even your competitors. Let the community speak.
+- **Contributions welcome!** If you’ve seen a great pricing page (even your own!), feel free to open a PR. Just make sure it fits the spirit of the list.
 
 Think of it as a starting point for:
 - PMs and founders launching a new product 💡
@@ -27,9 +27,35 @@ Think of it as a starting point for:
 
 ## 📊 Awesome Pricing Pages
 
-| Company | Product Type | Pricing Type | # of Plans |
-|---------|--------------|--------------|------------|
-| [Pruna AI](https://pruna.ai) | AI Inference Optimization Framework | Compute-Based | 3 |
+| Company | Product Type | Pricing Type | # of Plans | Score |
+|---------|--------------|--------------|------------|--------|
+| [Pruna AI](https://pruna.ai) | AI Inference Optimization Framework | Per-Hour (Compute-Based) | 3 | AAA++ |
+
+
+#### 🧮 Score Breakdown
+
+Each **A** is earned for one of the following:
+
+- ✅ 3 to 5 pricing plans max  
+- ✅ Persona clearly addressed (“For startups”, “For teams”, etc.)  
+- ✅ At least 1 customer shown for each plan (social proof)  
+- ✅ No pop-ups or distractions  
+- ✅ A “Best value” or “Recommended” label  
+- ✅ Waterfall-style layout to visualize differences  
+- ✅ Clear “Good / Better / Best” naming  
+- ✅ Unit of value is obvious (e.g. per user, per 1K tokens)  
+- ✅ Pricing-related FAQ included  
+
+**A = 1–3 | AA = 4–6 | AAA = 7–9**
+
+Each **+** is a bonus point for:
+
+- `+` Open-source project  
+- `+` Case study or testimonial next to logo  
+- `+` Tooltip-style `(i)` explanations for features  
+- `+` Add-ons or services listed separately  
+
+**Maximum: `AAA+++`**
 
 ---
 
@@ -95,8 +121,3 @@ Got questions or ideas? Reach out to [@quentin-js](https://github.com/quentin-js
 This project is licensed under the [MIT License](LICENSE). Feel free to share, remix, and build upon it!
 
 ---
-
-## 🚀 Logo (coming soon?)
-
-Stay tuned — we're thinking of remixing the classic [Awesome logo](https://github.com/topics/awesome) for this project. Got ideas? Open an issue!
-

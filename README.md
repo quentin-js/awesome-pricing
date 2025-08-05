@@ -38,8 +38,8 @@ Think of it as a starting point for:
 | [Sanity](https://www.sanity.io/) | Content Operating System (CMS) | Per Seat | 3 | AAA++ |
 | [Clay](https://posthog.com/) | ata Platform for Enrichment, Search & Automation | Credits | 5 | AA++ |
 | [Posthog](https://posthog.com/) | Analytics Platform | Hybrid (Multiple Usage-Based Metrics) | 2 | A+++ |
-| [Langfuse](https://langfuse.com) | Open Source LLM Engineering Platform | Hybrid (Fixed Fee +  | 4 | AAA++++ |
-| [Weights&Biases](https://wandb.ai) | AI developer platform | Hybrid (Per Seat + Various Usage-Based Metrics) | 3 | AA+ |
+| [Langfuse](https://langfuse.com) | Open Source LLM Engineering Platform | Hybrid (Fixed Fee + Single Usage-Based Metric) | 4 | AAA++++ |
+| [Weights&Biases](https://wandb.ai) | AI developer platform | Hybrid (Per Seat + Multiple Usage-Based Metrics) | 3 | AA+ |
 
 
 
